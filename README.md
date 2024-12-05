@@ -1,1 +1,2 @@
-# twitchl9
+# script - twitch
+# auto kite
