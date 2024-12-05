@@ -1,2 +1,2 @@
 # script - twitch
-# auto kite
+automatic kiting
